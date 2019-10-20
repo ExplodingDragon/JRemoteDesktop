@@ -25,8 +25,8 @@ gradlew.bat bootRun
 ```bash
 git clone https://github.com/ExplodingFKL/JRemoteDesktop
 cd JRemoteDesktop
-gradlew.bat build
-gradlew.bat bootRun
+./gradlew build
+./gradlew bootRun
 ```
 
 ## LICENSE
